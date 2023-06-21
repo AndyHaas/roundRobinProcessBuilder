@@ -1,24 +1,19 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "package": "pb_RoundRobin",
-            "versionName": "v 1",
-            "versionDescription": "apex action with tests",
-            "versionNumber": "1.6.0.NEXT"
-        },
-        {
-            "path": "implementation",
-            "default": true
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "45.0",
-    "packageAliases": {
-        "pb_RoundRobin": "0Ho6A000000001iSAA",
-        "pb_RoundRobin@1.3.0-1": "04t6A0000038F2dQAE",
-        "pb_RoundRobin@1.5.0-1": "04t6A0000038F2iQAE",
-        "pb_RoundRobin@1.6.0-1": "04t3u0000038OBmAAM"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "Dynamic Round Robin",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.2.0.NEXT",
+      "default": true,
+      "versionDescription": ""
     }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "Dynamic Round Robin": "0Ho5e000000wkTrCAI",
+    "Dynamic Round Robin@0.1.0-1": "04t5e000000NsO9AAK"
+  }
 }
